@@ -9,7 +9,7 @@
           <h3>Lorem ipsum dolor.</h3>
           <p>
             <i>
-              Lorem ipsum dolor sit amet, consectetur.
+              Lorem ipsum dolor sit amet.
               <br />
               Lorem ipsum dolor sit.
             </i>

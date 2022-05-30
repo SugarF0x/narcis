@@ -5,11 +5,11 @@
         <v-img src="/logo_hq.png" width="228" height="228" />
         <v-col cols="10" lg="8" class="mt-16">
           <div class="title-block">
-            <h5 class="company-subtitle">1.07.2021 - 3.07.2021</h5>
-            <h1 class="company-title">ARTocracy</h1>
+            <h5 class="company-subtitle">Ммм, багет-багет</h5>
+            <h1 class="company-title">Narçis</h1>
             <ul class="description-list">
-              <li>Аристократ внутри</li>
-              <li>Аристократ снаружи</li>
+              <li>Начало слогана</li>
+              <li>Конец слогана</li>
             </ul>
           </div>
         </v-col>
@@ -36,7 +36,7 @@ export default defineComponent({
 
 .bg-image
   //noinspection CssUnknownTarget
-  background: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("~assets/img/header_bg.webp") no-repeat center
+  background: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("~assets/img/header_bg.jpg") no-repeat center
   background-size: cover
 
 .title-block
