@@ -34,6 +34,7 @@
     "gzip-cli": "^1.2.0",
     "nuxt-compress": "^5.0.0",
     "nuxt-storm": "git+https://github.com/SugarF0x/nuxt-storm.git",
-    "prettier": "^2.3.2"
+    "prettier": "^2.3.2",
+    "sharp": "^0.31.1"
   }
 }
