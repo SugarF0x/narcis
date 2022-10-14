@@ -1,6 +1,6 @@
 <template>
   <section id="quote" class="text-center">
-    <v-icon color="white" size="80">mdi-brush-outline</v-icon>
+    <v-icon color="white" size="80">mdi-flower</v-icon>
     <p class="text text-justify text-sm-center">
       "Тем, что я стал художником, я обязан цветам"
     </p>
