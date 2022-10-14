@@ -5,8 +5,13 @@
         <h2 class="section-title large">Букеты</h2>
         <v-row no-gutters justify="center" class="mx-sm-8 mx-md-16">
           <v-col v-for="(col, colIndex) in cards" :key="`card-col-${colIndex}`" cols="12" sm="6" class="px-xl-16">
-            <Card color="primary-dark" :icon="col.icon" class="transparent text--white">
-              <template #title>{{ col.title }}</template>
+            <Card color="primary-dark" class="transparent text--white">
+              <template #title>
+                <div class="display-2 mb-2 ass">
+                  {{ col.icon }}
+                </div>
+                {{ col.title }}
+              </template>
               <template #text>
                 <p>
                   {{ col.text }}
@@ -32,10 +37,10 @@ export default defineComponent({
 })
 
 const cards: [string, string, string][] = [
-  ["human-child", "Детский", "Отличное украшение к празднику"],
-  ["human-greeting", "Взрослый", "Вы этого заслуживаете"],
-  ["domain", "VIP", "Для самых утончённых вкусов"],
-  ["card-account-details-outline", "Lux", "Утонуть в цветах - бесценно"],
+  ["S", "15 000₽ - 20 000₽", "Комплимент для любимых"],
+  ["M", "20 000₽ - 50 000₽", "Для значимых моментов"],
+  ["L", "50 000₽ - 100 000₽", "Для головокружительного эффекта"],
+  ["Premium", "100 000₽+", "Для незабываемых событий"],
 ]
 
 class CardData {
@@ -63,4 +68,7 @@ class CardData {
 
 .container
   max-width: 1100px
+
+.ass
+  color: #FFCE3E
 </style>

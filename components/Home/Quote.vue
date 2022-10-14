@@ -2,11 +2,9 @@
   <section id="quote" class="text-center">
     <v-icon color="white" size="80">mdi-book-open-page-variant</v-icon>
     <p class="text text-justify text-sm-center">
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aspernatur, cum est explicabo in magnam placeat
-      similique velit voluptatibus. Est ipsum pariatur, quasi quidem quo ratione unde voluptate? Architecto dolore
-      dolores eaque id incidunt molestias perspiciatis quo repudiandae sit ut!"
+      "Тем, что я стал художником, я обязан цветам"
     </p>
-    <h4 class="author">- Lorem ipsum.</h4>
+    <h4 class="author">- Клод Моне</h4>
   </section>
 </template>
 

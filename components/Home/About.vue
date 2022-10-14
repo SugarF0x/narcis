@@ -3,17 +3,14 @@
     <v-container>
       <v-row no-gutters justify="center">
         <v-col cols="12" lg="10" xl="9" class="d-flex flex-column">
-          <h2 class="section-title">Lorem.</h2>
-          <h3 class="display-1">Lorem ipsum dolor sit amet, consectetur.</h3>
+          <h2 class="section-title">О компании</h2>
+          <h3 class="display-1">Добро пожаловать в цветочную галерею Нарцис</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis cumque dicta distinctio eaque,
-            laudantium neque nulla provident repudiandae totam ut.
+            Мы создаём цветочные композиции любой сложности и для любого мероприятия.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto beatae laudantium perspiciatis
-            quibusdam quis, veniam.
+            В нашей галерее вы также сможете устроить фотосессию или послушать лекцию от интересных личностей.
           </p>
-          <Link to="#" class="ml-auto" disabled>Lorem</Link>
         </v-col>
       </v-row>
     </v-container>

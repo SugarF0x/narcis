@@ -5,11 +5,11 @@
         <v-img src="/logo_hq.png" width="228" height="228" />
         <v-col cols="10" lg="8" class="mt-16">
           <div class="title-block">
-            <h5 class="company-subtitle">Ммм, багет-багет</h5>
+            <h5 class="company-subtitle">Цветочная галерея</h5>
             <h1 class="company-title">Narçis</h1>
             <ul class="description-list">
-              <li>Начало слогана</li>
-              <li>Конец слогана</li>
+              <li>Цветочные композиции</li>
+              <li>любой сложности</li>
             </ul>
           </div>
         </v-col>

@@ -2,16 +2,19 @@
   <section id="record">
     <v-container>
       <v-row justify="center" align="center">
-        <v-col cols="12" sm="4" lg="3">
-          <h2 class="display-4 s-text--primary font-weight-bold text-center">500</h2>
+        <v-col cols="12" md="5" lg="4">
+          <h4 class="display-1 s-text--primary font-weight-bold text-center">
+            <a href="tel:+79160000000">+7 (916) 000 00 00</a>
+          </h4>
+          <h4 class="display-1 s-text--primary font-weight-bold text-center">
+            <a href="mailto:info@narcis.com">info@narcis.com</a>
+          </h4>
         </v-col>
-        <v-col cols="12" sm="6" lg="3" class="text-center">
-          <h3>Lorem ipsum dolor.</h3>
+        <v-col cols="12" md="5" lg="4" class="text-center">
+          <h3>Следите за нами в телеграмм!</h3>
           <p>
             <i>
-              Lorem ipsum dolor sit amet.
-              <br />
-              Lorem ipsum dolor sit.
+              @narcisFlowers
             </i>
           </p>
         </v-col>
@@ -32,6 +35,10 @@ export default defineComponent({
 #record
   color: white
   background-color: black
+
+  a
+    text-decoration: none
+    color: unset
 
 .card-title
   word-break: normal

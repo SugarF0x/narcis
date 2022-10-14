@@ -55,7 +55,7 @@ export default defineComponent({
       <v-row no-gutters justify="center">
         <v-col cols="12" lg="10" xl="9" class="d-flex flex-column">
           <h2 class="section-title">Заинтересованы?</h2>
-          <h3 class="display-1">Оставьте заявку и наш менеджер свяжется с Вами!</h3>
+          <h3 class="display-1">Оставьте заявку и наш флорист свяжется с Вами!</h3>
           <v-form>
             <v-container class="d-flex flex-column">
               <v-row>
