@@ -4,7 +4,7 @@
       <v-row no-gutters justify="center">
         <v-col cols="12" lg="10" xl="9" class="d-flex flex-column">
           <h2 class="section-title">О компании</h2>
-          <h3 class="display-1">Добро пожаловать в цветочную галерею Нарцис</h3>
+          <h3 class="display-1">Добро пожаловать в цветочную галерею Нарцисс</h3>
           <p>
             Мы создаём цветочные композиции любой сложности и для любого мероприятия.
           </p>
